@@ -35,7 +35,7 @@
    - Ich probiere öffentliche Netzwerke im Allgemeinen zu vermeiden, wenn dies aber nicht möglich ist, öffne ich keine wichtigen Applikationen.
 
 1. **05 Updates regelmässig durchführen**
-   - Meistens wenn ein Update aussteht, probiere ich so schnell wie möglich durchzuführen. 
+   - Meistens wenn ein Update aussteht, probiere ich so schnell wie möglich durchzuführen. Man kann Updates in den Einstellungen unter Updates durchführen. 
 
 1. **Daten vor verkauf oder Entsorgung komplett löschen.**
    - Vor dem Verkauf speichere ich meine wichtigen Dateien, die ich noch brauche und setzte dann das Gerät komplett zurück. Beim Apple Handy geht das in den Einstellungen unter Iphone zurücksetzten.
