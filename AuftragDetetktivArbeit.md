@@ -6,7 +6,7 @@
 - Lauerte ihr im Treppenhaus auf und erschoss sie
 - Laut der Mutter stalkte der Mann die Frau seit neun Monaten.
 - Nach der Tat tötete sich der Täter selbst
-![Tatort](tatort.png)
+![Tatort](images/tatort.png)
 - --
 ### Täter
 ![Täter](Täter2.png)
