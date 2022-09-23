@@ -1,8 +1,13 @@
 ## Aufträge im Modul 231 Simon Streuli
 
+26.08.2022
+
+Im Auftrag **Webseite verwendet Cooies** musste ich in Partnerarbeit mit Frau Arif über Cookies rechechieren und schreiben.   
+- [**Zu den Lösungen des Webseite verwendet Cookies Auftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/M231_AP22c_Cookies_Arif_Streuli.pdf)
+
 02.09.2022
 
-Der **Pinguin Auftrag** war es eine vorgegebene Webseite über Pinguine so gut wie möglich mit der Programmiersprache MarkDown zu kopieren. In diesem Auftrag lernte ich zum ersten Mal MarkDown kennen.
+Unser Auftrag war es eine Webseite über **Pinguine**, so gut wie möglich mit der Programmiersprache MarkDown zu kopieren. In diesem Auftrag lernte ich zum ersten Mal MarkDown kennen. Mit der Syntax von MarkDown konnte ich diesen Auftrag einfach erledigen.
 - [**Zu den Lösungen des Pinguins Auftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/test.md)
 
 09.09.2022
