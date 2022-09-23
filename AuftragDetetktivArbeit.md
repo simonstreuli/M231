@@ -9,7 +9,7 @@
 ![Tatort](images/tatort.png)
 - --
 ### Täter
-![Täter](Täter2.png)
+![Täter](images/Täter2.png)
 - Kim Wick 
 -  22 Jahre alt
 - Jungpoltiker
@@ -29,7 +29,7 @@
 - schickte ihr Libesbriefe, ruf sie an und schickte ihr lange WhatApp Nachrichten
 ---
 ### Opfer
-![Opfer](Opfer.png)
+![Opfer](images/Opfer.png)
 - Antonia-Luisa H.
 - 22 Jahre alt
 - Stundentin
