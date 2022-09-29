@@ -22,9 +22,9 @@ In der **Detektiv Arbeit** mussten wir zu einem 20 Minuten Artikel möglichst vi
 
 23.09.2022
 
-In dem Auftrag Wo Speichere ich welche Daten mussten wir eine Excel Tabelle zu unseren Geräten machen. Wir mussten über das Gerät,	das Betriebssytem, die Marke, die Speichergrösse, den Verwendungszweck, Applikation auf dem Gerät, Art der Daten, Auf zentralen Server gespeichert, User friendly privacy policy	Folgen von Datenverlust, Folgen von Diebstahl, Backups, "Häufigkeit des Backups" und Massnahmen	schreiben.
+In dem Auftrag **Wo Speichere ich welche Daten** mussten wir eine Excel Tabelle zu unseren Geräten machen. Wir mussten über das Gerät,	das Betriebssytem, die Marke, die Speichergrösse, den Verwendungszweck, Applikation auf dem Gerät, Art der Daten, Auf zentralen Server gespeichert, User friendly privacy policy	Folgen von Datenverlust, Folgen von Diebstahl, Backups, "Häufigkeit des Backups" und Massnahmen	schreiben.
 
-- [**Zu meinen Lösungen zum Auftrag "Wo Speichere ich welche Daten?"](https://gitlab.com/-/ide/project/simonstreuli/m231-auftrag-markdown/edit/main/-/Tabelle.xlsx)
+- [**Zu meinen Lösungen zum Auftrag "Wo Speichere ich welche Daten?"**](https://gitlab.com/-/ide/project/simonstreuli/m231-auftrag-markdown/edit/main/-/Tabelle.xlsx)
 
 
 
