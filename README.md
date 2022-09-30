@@ -31,4 +31,8 @@ In dem Auftrag **Wo Speichere ich welche Daten** mussten wir eine Excel Tabelle 
 Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authentifizierung** in eigenen Wörtern erklären. Ich habe die Eigenschaften und Unterschiede der Wörter erklärt. 
 - [**Zu dem Auftrag Autorisierung/Authentifizierung**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Authetifizierung_Autorisierung.md)
 
+30.09.2022
+
+Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert.[Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
+- [**Zu meinem Ergebniss**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/email_check.png)
 
