@@ -26,5 +26,9 @@ In dem Auftrag **Wo Speichere ich welche Daten** mussten wir eine Excel Tabelle 
 
 - [**Zu meinen Lösungen zum Auftrag "Wo Speichere ich welche Daten?"**](https://gitlab.com/-/ide/project/simonstreuli/m231-auftrag-markdown/edit/main/-/Tabelle.xlsx)
 
+30.09.2022
+
+Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authentifizierung** in eigenen Wörtern erklären. Ich habe die Eigenschaften und Unterschiede der Wörter erklärt. 
+- [**Zu dem Auftrag Autorisierung/Authentifizierung**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Authetifizierung_Autorisierung.md)
 
 
