@@ -36,3 +36,8 @@ Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authen
 Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert.[Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
 - [**Zu meinem Ergebniss**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/email_check.png)
 
+30.09.2022 
+
+Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hacken** kann. Das konnten wir auf einer Website ausprobieren, die genau für das programmiert wurde. Ich öffnete die Konsole und gab den Code von Git dort ein. Da aber der Ersteller dieser Website ein Fehler gemacht hatte, konnte das Passwort nicht gefunden werden, da er für jeden Tag ausser für den 30. und den 31. Tag im Monat ein verschiedenes Passwort eingestellt hatte.
+
+
