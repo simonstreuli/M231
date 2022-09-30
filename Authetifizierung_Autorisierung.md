@@ -1,13 +1,13 @@
 ## Authentizifierung und Autorisierung
 ---
 
-**Authentizifierung**
+- ### Authentizifierung
 
 Authentifizierung ist die **Prüfung einer Identität**, zum Beispiel mit einem Passwort, einer Face ID oder mit einem Fingerabdruck. Es ist der Nachweis, dass man die Person ist, als die man sich ausgibt. 
   
 Zum Beispiel gibt man an einem Bankautomaten seinen PIN an, der PIN authentifiziert die Person, da der PIN nur die Person selber besitzt. Genau so muss man bei einigen Applikationen sich mit einer Zwei-Faktor-Authentifizierung anmelden, man muss das Passwort angeben und man erhält eine E-Mail oder anderes in der man nochmal bestätigt, dass es sich um die eigene Identität handelt. 
 
-**Autorisierung**
+- ### Autorisierung
 
 Autorisieren ist einer Person **Berechtigungen oder Zugriff** zugeben. Man gibt einer Person Erlaubnis, um auf die Inhalte oder sonstiges zuzugreifen. Autorisieren ist jemand etwas zu **genehmigen**.
 
