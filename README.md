@@ -46,3 +46,7 @@ Im Auftrag zu **Backups** habe ich verschiedene Fragen zu Backups beantwortet. I
 
 - [**Zu dem Auftrag Backup/Restore**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Backup.md)
 
+07.10.2022
+
+Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortmanager verglichen und getestet.
+- [**Zu dem Auftrag zu Passwortmanager**]()
