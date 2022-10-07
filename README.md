@@ -40,4 +40,9 @@ Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach me
 
 Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hacken** kann. Das konnten wir auf einer Website ausprobieren, die genau für das programmiert wurde. Ich öffnete die Konsole und gab den Code von Git dort ein. Da aber der Ersteller dieser Website ein Fehler gemacht hatte, konnte das Passwort nicht gefunden werden, da er für jeden Tag ausser für den 30. und den 31. Tag im Monat ein verschiedenes Passwort eingestellt hatte.
 
+07.10.2022
+
+Im Auftrag zu **Backups**habe ich verschiedene Fragen zu Backups beantwortet. Ich habe über meine persönlichen Backups geschrieben, dazu habe ich ein Fazit erstellt. Ich habe verschiedene Backup Verfahren und das Generationsprinzip kennengelernt.
+
+- [**Zu dem Auftrag Backup/Restore**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Backup.md)
 
