@@ -33,7 +33,7 @@ Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authen
 
 30.09.2022
 
-Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert.[Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
+Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert. [Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
 - [**Zu meinem Ergebniss**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/email_check.png)
 
 30.09.2022 
@@ -42,7 +42,7 @@ Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hack
 
 07.10.2022
 
-Im Auftrag zu **Backups**habe ich verschiedene Fragen zu Backups beantwortet. Ich habe über meine persönlichen Backups geschrieben, dazu habe ich ein Fazit erstellt. Ich habe verschiedene Backup Verfahren und das Generationsprinzip kennengelernt.
+Im Auftrag zu **Backups** habe ich verschiedene Fragen zu Backups beantwortet. Ich habe über meine persönlichen Backups geschrieben, dazu habe ich ein Fazit erstellt. Ich habe verschiedene Backup Verfahren und das Generationsprinzip kennengelernt.
 
 - [**Zu dem Auftrag Backup/Restore**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Backup.md)
 
