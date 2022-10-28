@@ -51,4 +51,8 @@ Im Auftrag zu **Backups** habe ich verschiedene Fragen zu Backups beantwortet. I
 Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortmanager verglichen und getestet.
 - [**Zu dem Auftrag zu Passwortmanager**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Passwortmanager.md)
 
+**Foxtrail 28.10.2022**
+
+Wir erhielten eine "Schnitzeljagdt", in der wir einige knifflige Fragen über Verschlüsselungen und Hashes herausfinden und beantworten mussten.
+- [**Zu meiner Auswertung des Auftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Foxtrail%20M231_01.pdf)
 
