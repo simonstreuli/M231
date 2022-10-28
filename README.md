@@ -24,7 +24,7 @@ In der **Detektiv Arbeit** mussten wir zu einem 20 Minuten Artikel möglichst vi
 
 In dem Auftrag **Wo speichere ich welche Daten** mussten wir eine Excel Tabelle zu unseren Geräten machen. Wir mussten über das Gerät,	das Betriebssytem, die Marke, die Speichergrösse, den Verwendungszweck, Applikation auf dem Gerät, Art der Daten, Auf zentralen Server gespeichert, User friendly privacy policy	Folgen von Datenverlust, Folgen von Diebstahl, Backups, "Häufigkeit des Backups" und Massnahmen	schreiben.
 
-- [**Zu meinen Lösungen zum Auftrag "Wo Speichere ich welche Daten?"**](https://gitlab.com/-/ide/project/simonstreuli/m231-auftrag-markdown/edit/main/Aufträge/-/Tabelle.xlsx)
+- [**Zu meinen Lösungen zum Auftrag "Wo Speichere ich welche Daten?"**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Tabelle.xlsx)
 
 **Autorisierung & Authentifizierung 30.09.2022**
 
