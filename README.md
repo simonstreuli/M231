@@ -13,7 +13,7 @@ Unser Auftrag war es eine Webseite über **Pinguine**, so gut wie möglich mit d
 **Checklistenauftrag 09.09.2022**
 
 Im **Checklistenauftrag** mussten wir zwei Checklisten zum Thema Datenschutz durchführen und dokumentieren. Wir mussten die einzelnen Schritte erklären, darüber schreiben ob man sie schon kannte, oder sogar schon durchgeführt hat. [Link zu den Cheklisten](https://www.datenschutz.ch/meine-daten-schuetzen)  
-- [**Zu den Lösungen des Checklistenauftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/Auftrag.md)
+- [**Zu den Lösungen des Checklistenauftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/ChecklistenAuftrag.md)
 
 **Detektiv Arbeit 16.09.2022**
 
@@ -31,7 +31,7 @@ In dem Auftrag **Wo speichere ich welche Daten** mussten wir eine Excel Tabelle 
 Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authentifizierung** in eigenen Wörtern erklären. Ich habe die Eigenschaften und Unterschiede der Wörter erklärt. 
 - [**Zu dem Auftrag Autorisierung/Authentifizierung**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/Authetifizierung_Autorisierung.md)
 
-**E-Maiil Check 30.09.2022**
+**E-Mail Check 30.09.2022**
 
 Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert. [Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
 - [**Zu meinem Ergebniss**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/images/email_check.png)
