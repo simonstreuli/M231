@@ -33,10 +33,10 @@ Wir mussten in einem MarkDown File, die zwei Begriffe **Autorisierung und Authen
 
 **E-Mail Check 30.09.2022**
 
-Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert. [Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de) 
+Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach meiner E-Mail in ihrer Datenbank gesucht, in ihrer Datenbank sind nur E-Mails die **ausspioniert** werden. Zum Glück wird meine E-Mail nicht ausspioniert. [Link zum Test](https://sec.hpi.uni-potsdam.de/ilc/search?lang=de)
 - [**Zu meinem Ergebniss**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/images/email_check.png)
 
-**Passwort hacken 30.09.2022** 
+**Passwort hacken 30.09.2022**
 
 Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hacken** kann. Das konnten wir auf einer Website ausprobieren, die genau für das programmiert wurde. Ich öffnete die Konsole und gab den Code von Git dort ein. Da aber der Ersteller dieser Website ein Fehler gemacht hatte, konnte das Passwort nicht gefunden werden, da er für jeden Tag ausser für den 30. und den 31. Tag im Monat ein verschiedenes Passwort eingestellt hatte.
 
@@ -53,6 +53,6 @@ Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortm
 
 **Foxtrail 28.10.2022**
 
-Wir erhielten eine "Schnitzeljagdt", in der wir einige knifflige Fragen über Verschlüsselungen und Hashes herausfinden und beantworten mussten.
+Wir erhielten einen Auftrag zu einer "Schnitzeljagdt", in der wir einige knifflige Fragen über **Verschlüsselungen und Hashes** herausfinden und beantworten mussten.
 - [**Zu meiner Auswertung des Auftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Foxtrail%20M231_01.pdf)
 
