@@ -54,7 +54,7 @@ tryCombinations(dictionary)
 
 **Brute Force**.
 
-![Bruteforce](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/bruteforce.jpg)
+![Bruteforce](images/bruteforce.jpg)
 
 <br>
 
