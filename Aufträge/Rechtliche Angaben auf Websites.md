@@ -4,7 +4,7 @@
 
 **Airup Impressum**
 
-![Impressum](/images/airupimpressum.png)
+![Impressum](images/airupimpressum.png)
 
 **Der Zweck des Impressum** ist es den Nutzer, zu informieren, mit wem er es auf dieser Webseite zu tun hat. Ausserdem findet man auf dem Impressum auch die Adresse von air up. Das Impressum wird auch gebraucht, um Kontaktmöglichkeiten auszutauschen und den Benutzer über air up zu informieren.
 
