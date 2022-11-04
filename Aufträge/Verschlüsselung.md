@@ -25,6 +25,7 @@ Die Verschlüsselung sorgt dafür, dass man die versendete Nachricht verschlüss
 - Dann kann der Empfänger im Kleopatra die verschlüsselte Nachricht entschlüsseln.
 
 ![Verschlüsselung](/images/kleoptra.png)
+![pw](/images/pw.png)
 
 ---
 **Fazit**
