@@ -1,4 +1,4 @@
-## Rechtliche Angaben auf Websites
+## **Rechtliche Angaben auf Websites**
 
 **1. Beispiel airup.ch**
 
