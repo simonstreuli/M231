@@ -2,7 +2,7 @@
 
 **Webseite verwendet Cookies 26.08.2022**
 
-Im Auftrag **Webseite verwendet Cookies** musste ich in Partnerarbeit mit Frau Arif über Cookies rechechieren und schreiben.
+Im Auftrag **Webseite verwendet Cookies** musste ich in Partnerarbeit mit Frau Arif über Cookies rechechieren und schreiben. Ich habe gelernt, wofür Cookies gebraucht werden und wie sie funktionieren
 - [**Zu den Lösungen des Webseite verwendet Cookies Auftrags**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Aufträge/M231_AP22c_Cookies_Arif_Streuli.pdf)
 
 ---
@@ -68,7 +68,7 @@ Im Auftrag zu **Backups** habe ich verschiedene Fragen zu Backups beantwortet. I
 
 **Passwortmanager 07.10.2022**
 
-Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortmanager verglichen und getestet.
+Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortmanager verglichen und getestet. Ich habe gelernt was ein Passwortmager ist.
 - [**Zu dem Auftrag zu Passwortmanager**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Passwortmanager.md)
 
 ---
