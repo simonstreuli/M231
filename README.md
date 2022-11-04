@@ -86,6 +86,12 @@ Wir erhielten einen Auftrag zu einer "Schnitzeljagdt", in der wir einige kniffli
 
 In diesem Autrag mussten wir einen **verschlüsselten** Text mit einem Klassenkameraden austauschen und dokumentieren. Den Auftrag konnten wir mit dem Programm Kleoprate lösen.
 
-- [**Zum verschlüsselungs Auftrag** ]()
+- [**Zum verschlüsselungs Auftrag** ](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Verschl%C3%BCsselung.md)
 
 ---
+
+**Rechtliche Angaben auf Websites 04.11.2022**
+
+Im Auftrag zu **rechtlichen Angaben auf Websites** mussten wir, dass Impressum, der Disclaimer, die AGB und rechtliches auf verschiedenen Webseiten untersuchen. Wir mussten schreiben, welchen Zweck sie haben, ob sie nötig sind und welche Angaben dort gemacht werden müssen.
+
+- [**Zum Auftrag Rechtliche Angaben auf Websites**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Verschl%C3%BCsselung.md)
