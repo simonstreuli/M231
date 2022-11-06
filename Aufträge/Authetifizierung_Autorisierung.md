@@ -1,6 +1,6 @@
 ## Authentizifierung und Autorisierung
 
-
+![Unterschied](images/Authpng.png)
 - ### Authentizifierung
 
 Authentifizierung ist die **Prüfung einer Identität**, zum Beispiel mit einem Passwort, einer Face ID oder mit einem Fingerabdruck. Es ist der Nachweis, dass man die Person ist, als die man sich ausgibt. 
