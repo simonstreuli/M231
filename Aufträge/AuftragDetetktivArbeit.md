@@ -1,5 +1,4 @@
 ##  Auftrag Detektiv
----
 
 ### Fall
 - Am Dienstag Morgen verfolgte ein Mann (22) eine Frau (22) von der Ostschweeiz nach Hamburg.
@@ -7,9 +6,12 @@
 - Laut der Mutter stalkte der Mann die Frau seit neun Monaten.
 - Nach der Tat tötete sich der Täter selbst
 ![Tatort](images/tatort.png)
-- --
+---
 ### Täter
-![Täter](images/Täter2.png)
+
+![Täter](images/täter2.png)
+
+### Informationen
 - Kim Wick 
 -  22 Jahre alt
 - Jungpoltiker
@@ -30,6 +32,7 @@
 ---
 ### Opfer
 ![Opfer](images/Opfer.png)
+### Informationen
 - Antonia-Luisa H.
 - 22 Jahre alt
 - Stundentin
@@ -49,3 +52,7 @@
 - ging mit Kim feiern und wurde seitdem von ihm belagert
 - wollte sich von Kim distanzieren
 - Ihr Bruder rat stark davon ab, eine Beziehung mit Kim einzugehen
+
+**Fazit**
+
+Durch so einen kleinen Beitrag im Internet, kann man erstaunenden viele Informationen herausfinden.
