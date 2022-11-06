@@ -9,7 +9,8 @@
 ![Tatort](images/tatort.png)
 ---
 ### Täter
-![Täter](images/Täter2.png)
+
+![Täter](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/T%C3%A4ter2.png)
 ### Informationen
 - Kim Wick 
 -  22 Jahre alt
