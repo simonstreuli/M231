@@ -1,5 +1,4 @@
 ##  Auftrag Detektiv
----
 
 ### Fall
 - Am Dienstag Morgen verfolgte ein Mann (22) eine Frau (22) von der Ostschweeiz nach Hamburg.
@@ -10,7 +9,8 @@
 ---
 ### Täter
 
-![Täter](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/images/T%C3%A4ter2.png)
+![Täter](images/täter2.png)
+
 ### Informationen
 - Kim Wick 
 -  22 Jahre alt
