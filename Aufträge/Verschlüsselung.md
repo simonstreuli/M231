@@ -8,7 +8,9 @@ Verschlüsselter Text austauschen
 
 Die Verschlüsselung sorgt dafür, dass man die versendete Nachricht verschlüsselt, heisst man macht die Nachricht **nicht lesbar**. Erst wenn eine Person den richtigen Schlüssel dafür hat, kann er die Nachricht wieder entschlüsseln. So funktioniert die Verschlüsselung.
 
-**Ablauf**
+---
+
+### Ablauf
 
 - Herunterladen und öffnen von Kleopatra Software
 
