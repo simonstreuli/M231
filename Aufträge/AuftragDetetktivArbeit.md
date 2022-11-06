@@ -9,7 +9,7 @@
 ---
 ### Täter
 
-![Täter](images/täter2.png)
+![Taeter](images/Taeter.png)
 
 ### Informationen
 - Kim Wick 
