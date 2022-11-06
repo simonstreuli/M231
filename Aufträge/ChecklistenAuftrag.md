@@ -1,27 +1,32 @@
 # Checklisten Auftrag
 
----
-
 ## Checkliste PC-Sicherheit erhöhen - in fünf Schritten
 
 - [Zum Beitrag](https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten)
 
 1. **Persönliche Informationen schützen**
    - **Nicht mehr persönliche Informationen preis geben als nötig**. Ich probiere immer so wenig Daten wie möglich preis zu geben, aber ich denke, dass das mir trotzdem nicht immer gelingt. Ich sollte beim Angeben von persönlichen Informationen, länger überlegen, ob es wirklich nötig ist
-     <br>
+
+
    - **Browser Daten löschen**. Ich habe den Browserverlauf schön öfter gelöscht, jedoch habe ich nie die Chache gelöscht. Den Browserverlauf kann man ganz einfach löschen, man muss im Chrome Browser auf die drei Punkte oben rechts drücken, Verlauf aufmachen, dann Browserdaten löschen. Um die Chache zu löschen, muss ich in Chrome wieder in den Verlauf auf Browserdaten löschen erweitert, Bilder und Dateien im Cache löschen.
 2. **Angriffe abwehren.**
    - **Sicherheitsupdates** auf Windows mache ich immer, wenn sie verfügbar sind.
      <br>
+
    - Ich habe die **Windows Firewall** aktiviert und einen gratis Virenscanner heruntergeladen (Malwarebytes). Die Windows Firewall kann man in den Windows Einstellungen unter Windows Firewall einfach aktivieren.
      <br>
-3. **Zugriffe Unberechtigter verhindern** - **Sichere Passwörtern verwenden**. Ich habe ein sicheres Passwort, aber ich sollte für jedes Login ein anderes Passwort verwenden, was bei mir nicht überall der Fall ist.
-   <br> - Die **Bildschirmsperre** benutze ich immer, wenn ich mich von meinem Laptop entferne. Ich mache das mit dem Windows + L Hotkey.
+3. **Zugriffe Unberechtigter verhindern** 
+
+   - **Sichere Passwörtern verwenden**. Ich habe ein sicheres Passwort, aber ich sollte für jedes Login ein anderes Passwort verwenden, was bei mir nicht überall der Fall ist.
+
+   - Die **Bildschirmsperre** benutze ich immer, wenn ich mich von meinem Laptop entferne. Ich mache das mit dem Windows + L Hotkey.
    <br>
-4. **Verschlüsseln Sie sensitive Inhalte** - Ich verschlüssele meinen Computer nur mit einem PIN, den kann man kann bei Windows in den Einstellungen unter PIN aktivieren.
+4. **Verschlüsseln Sie sensitive Inhalte**
+    - Ich verschlüssele meinen Computer nur mit einem PIN, den kann man kann bei Windows in den Einstellungen unter PIN aktivieren.
    <br>
 5. **Sichern Sie Informationen und löschen Sie Daten vollständig**
    - Regelmässig **Backups** durchführen, auf meinem Handy führe ich oft Backups durch, aber auf meinem Computer mache ich keine Backups. Ich könnte eine Backup Software herunterladen und so Backups druchführen.
+     
      <br>
    - Vor dem Verkauf einer meiner Geräte sichere ich meine Dateien und setzte das jeweilige Gerät komplett zurück. Man kann jedes Gerät einfach zurücksetzten. Bei Windows über Einstellungen unter diesen PC zurücksetzten.
 
@@ -53,4 +58,5 @@
    - Wenn ich WLAN und Bluethooth nicht nutze, **deaktiviere** ich diese nicht. Ich sollte, wenn ich WLAN oder Bluethooth nicht brauche, es auch direkt deaktivieren. Das geht ganz einfach über die Einstellungen unter Wlan und Bluethooth.
 
 **Fazit**
+
 Es gibt viele **Bedrohungen** im Internet, deshalb sollte man sich bewusst sein, welche Daten man im Internet Preis gibt. Mit einfachen Schritten kann man die Sicherheit im Internet erhöhen.
