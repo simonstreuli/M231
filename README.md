@@ -1,6 +1,8 @@
 ## 231 Datenschutz und Datensicherheit anwenden
 
-## Aufträge von Simon Streuli
+### Aufträge von Simon Streuli
+
+---
 
 **Webseite verwendet Cookies 26.08.2022**
 
