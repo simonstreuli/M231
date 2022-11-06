@@ -104,8 +104,10 @@ Im Auftrag zu **rechtlichen Angaben auf Websites** mussten wir, das Impressum, d
 
 - [**Zum Auftrag rechtliche Angaben auf Websites**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Verschl%C3%BCsselung.md)
 
-**Lizensmodelle 04.11.2022**
+---
 
-Im Auftrag zu **Lizensmodellen** rechechierte ich über verschiedene Lizensmodelle und ihre Funktion. Ich lernte viele Lizensmodelle kennen.
+**Lizenzmodelle 04.11.2022**
 
-- [**Zum Auftrag Lizensmodelle**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Lizensmodelle.md)
+Im Auftrag zu **Lizenzmodellen** rechechierte ich über verschiedene Lizensmodelle und ihre Funktion. Ich lernte viele Lizensmodelle kennen.
+
+- [**Zum Auftrag Lizenzmodelle**](https://gitlab.com/simonstreuli/m231-auftrag-markdown/-/blob/main/Auftr%C3%A4ge/Lizensmodelle.md)
