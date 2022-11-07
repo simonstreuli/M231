@@ -18,11 +18,11 @@ Open Spurce bedeutet, der Programmcode einer Software ist frei zugänglich. Die 
 
 **3. General Public Lizenz (GNU)**
 
-General Public Lizenz ist eine Softwarelizenz, die einem die Möglickeit gibt, die Software auszuführen, zu ändern und zu verbreiten. Man kann die Software also frei Verwenden.
+General Public Lizenz ist eine Softwarelizenz, die einem die Möglichkeit gibt, die Software auszuführen, zu ändern und zu verbreiten. Man kann die Software also frei verwenden.
 
 **4. Dauerlizenz**
 
-Bei einer Dauerlizenz darf man die Software unbegrenzt Nutzen.
+Bei einer Dauerlizenz darf man die Software unbegrenzt nutzen.
 
 **5. Arbeitsstation Lizenz**
 
