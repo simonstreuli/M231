@@ -1,7 +1,5 @@
 ## Lizenzmodelle
 
-
-
 Software zu erstellen ist aufwändig und teuer. Damit diese Arbeit sich auch lohnt, gibt es verschiedene Möglichkeiten zu verhindern, dass diese einfach so weiterverbreitet werden. Die Art der Anbietung wird über eine **Lizenz** geregelt.
 
 ### Was ist eine Lizenz?
@@ -14,16 +12,13 @@ Eine Lizenz schützt zum Beispiel ein Programm. Ich kann das Programm nicht nutz
 
 Eine Public Domain ist ein urheberrechtsfreie Lizenzart für Software. Sie ist gemeinfrei, was so viel bedeutet, wie jeder darf sie uneingeschränkt und kostenlos verwenden.
 
-
 **2. Open Source Lizenz**
 
 Open Spurce bedeutet, der Programmcode einer Software ist frei zugänglich. Die Nutzung der Software muss aber nicht kostenlos sein.
 
-
 **3. General Public Lizenz (GNU)**
 
 General Public Lizenz ist eine Softwarelizenz, die einem die Möglickeit gibt, die Software auszuführen, zu ändern und zu verbreiten. Man kann die Software also frei Verwenden.
-
 
 **4. Dauerlizenz**
 
@@ -39,7 +34,7 @@ Man darf eine oder mehrere Kopien der Anwendung machen. Die Software bleibt aber
 
 **7. Kommerzielle Software**
 
-Hier werden die Nutzungsrecht erworben. Beim Erwerb muss kein tatsächlicher Geldfluss vonstatten gehen.
+Hier werden die Nutzungsrechte erworben. Beim Erwerb muss kein tatsächlicher Geldfluss vonstattengehen.
 
 **8. Eula**
 
