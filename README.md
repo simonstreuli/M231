@@ -6,7 +6,7 @@
 
 **Webseite verwendet Cookies 26.08.2022**
 
-Im Auftrag **Webseite verwendet Cookies** habe ich in Partnerarbeit mit Frau Arif über Cookies recherchiert und geschreiben. Ich habe gelernt, wofür Cookies gebraucht werden und wie sie funktionieren.
+Im Auftrag **Webseite verwendet Cookies** habe ich in Partnerarbeit mit Frau Arif über Cookies recherchiert und geschrieben. Ich habe gelernt, wofür Cookies gebraucht werden und wie sie funktionieren.
 
 - [**Zu den Lösungen des Webseite verwendet Cookies Auftrags**](/Auftr%C3%A4ge/M231_AP22c_Cookies_Arif_Streuli.pdf)
 
