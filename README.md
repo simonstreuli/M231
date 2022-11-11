@@ -22,7 +22,7 @@ Unser Auftrag war es eine [Webseite](https://gitlab.com/ch-tbz-it/students/m231-
 
 **Checklistenauftrag 09.09.2022**
 
-Im **Checklistenauftrag** mussten wir zwei Checklisten zum Thema Datenschutz durchführen und dokumentieren. Wir mussten die einzelnen Schritte erklären, darüber schreiben, ob man sie schon kannte, oder sogar schon durchgeführt hat. [Link zu den Cheklisten](https://www.datenschutz.ch/meine-daten-schuetzen)
+Im **Checklistenauftrag** mussten wir zwei Checklisten zum Thema Datenschutz durchführen und dokumentieren. Wir mussten die einzelnen Schritte erklären, darüber schreiben, ob man sie schon kannte, oder sogar schon durchgeführt hat. [Link zu den Checklisten](https://www.datenschutz.ch/meine-daten-schuetzen)
 
 - [**Zu den Lösungen des Checklistenauftrags**](/Auftr%C3%A4ge/ChecklistenAuftrag.md)
 
@@ -30,7 +30,7 @@ Im **Checklistenauftrag** mussten wir zwei Checklisten zum Thema Datenschutz dur
 
 **Detektivarbeit 16.09.2022**
 
-In der **Detektivarbeit** mussten wir zu einem 20 Minuten Artikel möglichst viele Informationen herausfinden. Das Ziel des Auftrags war, festzustellen, wie schwierig oder einfach es ist, aus eigentlich verschleierten Angaben Facts zu Datenschutz-relevanten Informationen zu erhalten. Es war mit ein bisschen Recherche relativ einfach und mich erstaunte es wie viele Informationen man herausfinden kann. [Zu dem Artikel](https://tbzedu.sharepoint.com/sites/campus/students/it/Forms/AllItems.aspx?id=%2Fsites%2Fcampus%2Fstudents%2Fit%2F%5Fread%2Donly%2FM231%2F09%20%2D%20Ressourcen%2FDatenschutz%2FKAE%2FStalking%2DFemizid%20%2D%20%C2%ABDass%20er%20extra%20nach%20Hamburg%20fuhr%2C%20war%20ein%20krasses%20Warnsignal%C2%BB%20%2D%2020%20Minuten%2Epdf&parent=%2Fsites%2Fcampus%2Fstudents%2Fit%2F%5Fread%2Donly%2FM231%2F09%20%2D%20Ressourcen%2FDatenschutz%2FKAE&p=true&ga=1)
+In der **Detektivarbeit** mussten wir zu einem 20 Minuten Artikel möglichst viele Informationen herausfinden. Das Ziel des Auftrags war, festzustellen, wie schwierig oder einfach es ist, aus eigentlich verschleierten Angaben Datenschutz-relevante Fakten und Informationen herauszulesen. Es war mit ein bisschen Recherche relativ einfach und mich erstaunte es, wie viele Informationen man herausfinden kann. [Zu dem Artikel](https://tbzedu.sharepoint.com/sites/campus/students/it/Forms/AllItems.aspx?id=%2Fsites%2Fcampus%2Fstudents%2Fit%2F%5Fread%2Donly%2FM231%2F09%20%2D%20Ressourcen%2FDatenschutz%2FKAE%2FStalking%2DFemizid%20%2D%20%C2%ABDass%20er%20extra%20nach%20Hamburg%20fuhr%2C%20war%20ein%20krasses%20Warnsignal%C2%BB%20%2D%2020%20Minuten%2Epdf&parent=%2Fsites%2Fcampus%2Fstudents%2Fit%2F%5Fread%2Donly%2FM231%2F09%20%2D%20Ressourcen%2FDatenschutz%2FKAE&p=true&ga=1)
 
 - [**Zu den Lösungen des Auftrags zur Detektiv Arbeit**](/Auftr%C3%A4ge/AuftragDetetktivArbeit.md)
 
@@ -38,7 +38,7 @@ In der **Detektivarbeit** mussten wir zu einem 20 Minuten Artikel möglichst vie
 
 **Wo speichere ich welche Daten? 23.09.2022**
 
-In dem Auftrag **Wo speichere ich welche Daten** erstellte ich eine Excel-Tabelle zu meinen Geräten und den Daten auf meinem Gerät. Wir mussten über das Gerät, das Betriebssystem, die Marke, die Speichergrösse, den Verwendungszweck, die Applikation auf dem Gerät, die Art der Daten, auf zentralen Server gespeichert oder nicht, die User friendly privacy policy und die Folgen von Datenverlust schreiben.
+In dem Auftrag **wo speichere ich welche Daten** erstellte ich eine Excel-Tabelle zu meinen Geräten und den Daten auf meinem Gerät. Wir mussten über das Gerät, das Betriebssystem, die Marke, die Speichergrösse, den Verwendungszweck, die Applikation auf dem Gerät, die Art der Daten, auf zentralen Server gespeichert oder nicht, die User friendly privacy policy und die Folgen von Datenverlust schreiben.
 
 - [**Zu meinen Lösungen zum Auftrag "Wo speichere ich welche Daten?"**](/Auftr%C3%A4ge/Tabelle.xlsx)
 
@@ -94,7 +94,7 @@ Wir erhielten einen Auftrag zu einer "Schnitzeljagd", in der wir einige knifflig
 
 **Verschlüsselung 28.10.2022**
 
-In diesem Auftrag mussten wir einen **verschlüsselten** Text mit einem Klassenkameraden austauschen und dokumentieren. Den Auftrag konnten wir mit dem Programm Kleoprata lösen.
+In diesem Auftrag mussten wir einen **verschlüsselten** Text mit einem Klassenkameraden austauschen und dokumentieren. Den Auftrag konnten wir mit dem Programm Kleopatra lösen.
 
 - [**Zum Verschlüsselungs Auftrag** ](/Auftr%C3%A4ge/Verschl%C3%BCsselung.md)
 
@@ -110,7 +110,7 @@ Im Auftrag zu **rechtlichen Angaben auf Websites** mussten wir, das Impressum, d
 
 **Lizenzmodelle 04.11.2022**
 
-Im Auftrag zu **Lizenzmodellen** rechechierte ich über verschiedene Lizensmodelle und ihre Funktion. Ich lernte viele Lizensmodelle kennen.
+Im Auftrag zu **Lizenzmodellen** recherchierte ich über verschiedene Lizenzmodelle und ihre Funktion. Ich lernte viele Lizenzmodelle kennen.
 
 - [**Zum Auftrag Lizenzmodelle**](/Auftr%C3%A4ge/Lizensmodelle.md)
 
@@ -118,4 +118,4 @@ Im Auftrag zu **Lizenzmodellen** rechechierte ich über verschiedene Lizensmodel
 
 ## Fazit
 
-Im Modul 231 habe ich sehr vieles gelernt und es war sehr interessant. Ich habe die Grundlagen von Git kennengerlent. Ich kenne nun verschiedene Lizenzmodelle, verschiedene Arten von Verschlüsselungen, Rechtliche Angaben auf Webseiten, Backups, wie man Passwörter hacken kann und vieles mehr. Ausserdem kann ich nun MarkDown gut anwenden und weiss was Datenschutz ist und worauf man achten muss. Mit meinem Repository bin ich zufrieden, ich konnte alle Aufträge gut lösen. Es war also ein erfolgreiches Modul mit viel Inhalt.
+Im Modul 231 habe ich sehr vieles gelernt und es war sehr interessant. Ich habe die Grundlagen von Git kennengelernt. Ich kenne nun verschiedene Lizenzmodelle, verschiedene Arten von Verschlüsselungen, rechtliche Angaben auf Webseiten, Backups, wie man Passwörter hacken kann und vieles mehr. Ausserdem kann ich jetzt MarkDown gut anwenden und weiss, was Datenschutz ist und worauf man achten muss. Mit meinem Repository bin ich zufrieden, ich konnte alle Aufträge gut lösen. Es war also ein erfolgreiches Modul mit viel Inhalt.
