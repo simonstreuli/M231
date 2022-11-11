@@ -62,7 +62,7 @@ Ich habe mit einer Webseite meine E-Mail **gechecked**. Die Webseite hat nach me
 
 **Passwort hacken 30.09.2022**
 
-Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hacken** kann. Das konnten wir auf einer Website ausprobieren, die genau für das programmiert wurde.
+Ich habe im Auftrag angeschaut, wie man ein **Passwort** mit einer E-Mail **hacken** kann. Das konnten wir auf einer [Website](https://junusergin.github.io/hackme-part2/login.html) ausprobieren, die genau für das programmiert wurde.
 
 - [**Zu dem Auftrag vom Passwort hacken**](/Auftr%C3%A4ge/Hacken.md)
 
@@ -86,7 +86,7 @@ Wir hatten einen Auftrag zu **Passwortmanager**, ich habe verschiedene Passwortm
 
 **Foxtrail 28.10.2022**
 
-Wir erhielten einen Auftrag zu einer "Schnitzeljagd", in der wir einige knifflige Fragen über **Verschlüsselungen und Hashes** herausfinden und beantworten mussten.
+Wir erhielten einen Auftrag zu einer "Schnitzeljagd", in der wir einige knifflige Fragen über **Verschlüsselungen und Hashes** herausfinden und beantworten mussten. Den Auftrag konnten wir auf dieser [Webseite](https://foxtrail.tho-kae.ch/queryWithInput?answer=KOENNEN+SIE+DAS+LESEN) lösen.
 
 - [**Zu meiner Auswertung des Auftrags**](/Auftr%C3%A4ge/Foxtrail%20M231_01.pdf)
 
