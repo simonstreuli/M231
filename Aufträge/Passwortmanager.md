@@ -2,7 +2,7 @@
 ---
 **Was machen Passwortmanager?**
 
-Passwortmanager verwalten Benutzernamen und Passwörter. Sie verschlüsseln die Daten, durch sie kann man komplexe Passwörter aufbewahren. Durch Passwortmanager kann man auf verschiedenen Programmen, verschiedne und komplexe Passwörter schnell eingeben.
+Passwortmanager verwalten Benutzernamen und Passwörter. Sie verschlüsseln die Daten, durch sie kann man komplexe Passwörter aufbewahren. Durch Passwortmanager kann man auf verschiedene Programmen, verschiedne und komplexe Passwörter schnell eingeben.
 
 <br>
 
