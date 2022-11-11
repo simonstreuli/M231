@@ -22,7 +22,7 @@ Die Verschlüsselung sorgt dafür, dass man die versendete Nachricht verschlüss
 
 - Empfänger hinzufügen
 
-- Die Nachricht and Empfänger schicken mit dem Passwort
+- Die Nachricht an den Empfänger schicken, mit dem Passwort
 
 - Dann kann der Empfänger im Kleopatra die verschlüsselte Nachricht entschlüsseln.
 
@@ -30,6 +30,7 @@ Die Verschlüsselung sorgt dafür, dass man die versendete Nachricht verschlüss
 ![pw](/images/pw.png)
 
 ---
+
 **Fazit**
 
-Kleoprata ist ein hilfreiches Tool, um Texte zu verschlüsseln und entschlüsseln. Mit einer Verschlüsselung kann man geheime Nachrichten sicher austauschen.
+Kleopatra ist ein hilfreiches Tool, um Texte zu verschlüsseln und entschlüsseln. Mit einer Verschlüsselung kann man geheime Nachrichten sicher austauschen.
