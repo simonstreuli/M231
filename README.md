@@ -118,4 +118,4 @@ Im Auftrag zu **Lizenzmodellen** rechechierte ich über verschiedene Lizensmodel
 
 ## Fazit
 
-Im Modul 231 habe ich sehr vieles gelernt. Ich habe die Grundlagen von Git kennengerlent. Ich kenne nun verschiedene Lizenzmodelle, verschiedene Arten von Verschlüsselungen, Rechtliche Angaben auf Webseiten, Backups, wie man Passwörter hacken kann und vieles mehr. Ausserdem kann ich nun MarkDown gut anwenden und weiss was Datenschutz ist und worauf man achten muss. Mit meinem Repository bin ich zufrieden, ich konnte alle Aufträge gut lösen. Es war also ein erfolgreiches Modul mit viel Inhalt.
+Im Modul 231 habe ich sehr vieles gelernt und es war sehr interessant. Ich habe die Grundlagen von Git kennengerlent. Ich kenne nun verschiedene Lizenzmodelle, verschiedene Arten von Verschlüsselungen, Rechtliche Angaben auf Webseiten, Backups, wie man Passwörter hacken kann und vieles mehr. Ausserdem kann ich nun MarkDown gut anwenden und weiss was Datenschutz ist und worauf man achten muss. Mit meinem Repository bin ich zufrieden, ich konnte alle Aufträge gut lösen. Es war also ein erfolgreiches Modul mit viel Inhalt.
