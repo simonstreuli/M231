@@ -4,14 +4,14 @@
 
 **Airup Impressum**
 
-![Impressum](images/airupimpressum.png)
+![Impressum](/images/airupimpressum.png)
 
-**Der Zweck des Impressum** ist es den Nutzer, zu informieren, mit wem er es auf dieser Webseite zu tun hat. Ausserdem findet man auf dem Impressum auch die Adresse von air up. Das Impressum wird auch gebraucht, um Kontaktmöglichkeiten auszutauschen und den Benutzer über air up zu informieren.
+**Der Zweck des Impressum** ist es, den Nutzer, zu informieren, mit wem er es auf dieser Webseite zu tun hat. Ausserdem findet man auf dem Impressum auch die Adresse von air up. Das Impressum wird auch gebraucht, um Kontaktmöglichkeiten auszutauschen und den Benutzer über air up zu informieren.
 
-
-In der Schweiz muss seit 2012 **auf jeder geschäftlichen Website**, auf der Waren oder Dienstleistungen angeboten werden, ein Impressum vorhanden sein. Auf Webseiten die nicht geschäftlich sind, muss kein Impressum vorhanden sein.
+In der Schweiz muss seit 2012 **auf jeder geschäftlichen Website**, auf der Waren oder Dienstleistungen angeboten werden, ein Impressum vorhanden sein. Auf Webseiten, die nicht geschäftlich sind, muss kein Impressum vorhanden sein.
 
 **In jedem Impressum muss folgendes stehen:**
+
 - Name des Geschäftsführer
 - Name der Firma
 - Sitz des Unternehmens
@@ -23,14 +23,14 @@ In der Schweiz muss seit 2012 **auf jeder geschäftlichen Website**, auf der War
 
 ![Disclaimer](/images/disclaimer.png)
 
-**Der Zweck eines Disclaimer** ist es sich von externen Hyperlinks zu distanzieren. Durch den Disclaimer ist travelnews nicht Verantwortlich, wenn auf einer ihrer verlinkten Webseiten illegales passiert. Sie haben im Disclaimer auch noch ihr Werk gecopyrighted, somit darf keiner Inhalte, Bilder oder andere Dateien von travelnews kopieren.
+**Der Zweck eines Disclaimer** ist es, sich von externen Hyperlinks zu distanzieren. Durch den Disclaimer ist travelnews nicht verantwortlich, wenn auf einer ihrer verlinkten Webseiten illegales passiert. Sie haben im Disclaimer auch noch ihr Werk gecopyrighted, somit darf keiner Inhalte, Bilder oder andere Dateien von travelnews kopieren.
 
 **Im Disclaimer steht meistens folgendes:**
+
 - allge- meine Hinweise zum Nutzen und zu den Möglichkeiten
-- distanzierung von externen Webseiten, welche verlinkt worden sind
+- Distanzierung von externen Webseiten, welche verlinkt worden sind
 
-
-Ein Disclaimer ist grundzätzlich **nicht Pflicht**, jedoch ist es zu empfehlen, den es ist nicht klar, ob man für Webseiten die verlinkt sind haftet.
+Ein Disclaimer ist grundsätzlich **nicht Pflicht**, jedoch ist es zu empfehlen, den es ist nicht klar, ob man für Webseiten die verlinkt sind haftet.
 
 **3. Beispiel zalando.ch**
 
@@ -38,20 +38,21 @@ Ein Disclaimer ist grundzätzlich **nicht Pflicht**, jedoch ist es zu empfehlen,
 
 ![AGB](/images/agb.png)
 
-**Der Zweck der AGB** ist es allgemeine Geschäftsbedingungen auf zu zeigen. Im AGB stehen Vertragsbedingungen. Zalando fasst mit der AGB alle rechtlichen Aspekte des Geschäfts zusammen.
+**Der Zweck der AGB** ist es, allgemeine Geschäftsbedingungen aufzuzeigen. Im AGB stehen Vertragsbedingungen. Zalando fasst mit der AGB alle rechtlichen Aspekte des Geschäfts zusammen.
 
 **In einer AGB steht meistens folgendes:**
-- rechtliche Bedingungen
+
+- Rechtliche Bedingungen
 - Zahlungsbedingungen
 - Lieferbedingungen
 
-Allgemeine Geschäftsbedingungen sind in der Schweiz im im gegensatz zu anderen Ländern **nicht pflicht.**
+Allgemeine Geschäftsbedingungen sind in der Schweiz im Gegensatz zu anderen Ländern **nicht Pflicht.**
 
 **4.Beispiel raiffeisen.ch**
-Raiffesien rechtliches
-![Rechtliches](/images/rechtliches.png)
+Raiffeisen rechtliches
+![rechtliches](/images/rechtliches.png)
 
-**Der Zweck von rechtliches** ist es sich rechtlich abzusichern. Im rechtlichen sichert man sich für jeden Fall ab, zum Beispiel findet man dort Bedingungen, Entschädigungen und Basisregelmente.
+**Der Zweck von rechtliches** ist es, sich rechtlich abzusichern. Im rechtlichen sichert man sich für jeden Fall ab, zum Beispiel findet man dort Bedingungen, Entschädigungen und Basisreglemente.
 
 **Auf der Rechtliches Seite findet man meistens:**
 
